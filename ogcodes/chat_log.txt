@@ -1,0 +1,10 @@
+[2025-05-04 16:46:39.880861] aman: Option 1 - You can track your order in the 'My Orders' section of your account.
+[2025-05-04 16:46:48.591810] aman: Option 2 - You can cancel your order before it is shipped from the order details page.
+[2025-05-04 16:54:16.541263] bapu: Option 1 - You can track your order in the 'My Orders' section of your account.
+[2025-05-04 16:59:03.017737] Aman: Option 1 - You can track your order in the 'My Orders' section of your account.
+[2025-05-04 16:59:05.680942] Aman: Option 2 - You can cancel your order before it is shipped from the order details page.
+[2025-05-04 16:59:08.385465] Aman: Option 3 - Products can be returned within 7 days of delivery via 'My Orders' > Return.
+[2025-05-04 16:59:15.096689] Aman: Option 4 - Refunds are processed within 5-7 working days after the product is picked up.
+[2025-05-04 16:59:17.910874] Aman: Option 5 - We accept UPI, Debit/Credit Cards, Net Banking, and Cash on Delivery.
+[2025-05-04 16:59:21.483679] Aman: Option 6 - Exchange is available on selected products only. Check the product page.
+[2025-05-04 16:59:27.034629] Aman: Option 7 - All our agents are currently busy. Please describe your issue, and we’ll get back to you soon!
